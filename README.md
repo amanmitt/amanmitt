@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aman, a CSE Graduate. 
+- 👋 Hi, I’m Aman, a MERN Stack Developer. 
 - 👀 I’m interested in Web Development and Blockchain Development.
-- 🌱 I’m currently working on some MERN Stack based projects.
+- 🌱 I’m currently working on a Ecommerce websiter based on MERN Stack.
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 Reach me on Twitter @amanmittal280.
 
